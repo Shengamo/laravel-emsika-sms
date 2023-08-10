@@ -1,3 +1,8 @@
 # Changelog
 
-All notable changes to `:package_name` will be documented in this file.
+All notable changes to `LaravelEmsikaSms` will be documented in this file.
+
+## Version 1.0
+
+### Added
+- Everything
